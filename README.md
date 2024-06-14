@@ -5,3 +5,4 @@ Receber Dados para compra de ingresso: O sistema deve ter uma tela com entradas 
 Calcular Total de Ingressos vendidos: O sistema deve ser capaz de calcular o total de ingressos vendidos para o evento. Deve haver uma função que some todas as compras de ingresso e apresente o total em uma interface fácil de entender.
 
 Armazenar Informações da venda de ingressos: Todas as informações sobre os ingressos vendidos devem ser armazenadas em um banco de dados ou arquivo texto. Isso permitirá que as informações sejam recuperadas e analisadas posteriormente.
+Nome da dupla: Pedro Lucas dos Santos e Alvaro Carvalho
