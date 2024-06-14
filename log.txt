@@ -1,0 +1,26 @@
+Digite o tipo do ingresso/entrada desejado: 
+1 - Inteiro
+2 - Meia
+3 - Social
+Tipo de ingresso escolhido: 1
+Digite a quantidade de ingresso/entrada desejado: 
+Quantidade de ingressos escolhida: 1
+Quantidade de ingressos/meias vendidos: 1
+Total de ingressos/meias vendidos: 1
+Digite o tipo do ingresso/entrada desejado: 
+1 - Inteiro
+2 - Meia
+3 - Social
+Digite o tipo do ingresso/entrada desejado: 
+1 - Inteiro
+2 - Meia
+3 - Social
+Digite o tipo do ingresso/entrada desejado: 
+1 - Inteiro
+2 - Meia
+3 - Social
+Tipo de ingresso escolhido: 1
+Digite a quantidade de ingresso/entrada desejado: 
+Quantidade de ingressos escolhida: 2
+Quantidade de ingressos/meias vendidos: 2
+Total de ingressos/meias vendidos: 2
